@@ -1,0 +1,19 @@
+{
+    "players": [
+        {
+            "id": "518d1de9-3f00-4fba-a74f-18b4b7d3be2f",
+            "name": "Sundar smiling",
+            "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/150B8/production/_110000268_fe81a048b.jpg"
+        },
+        {
+            "id": "eac1a710-b264-4a52-bde1-bbd078f4579c",
+            "name": "Sundar being in disbelief",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiKGnAqFvboA2mFCRhS76gvnViHAO5MVQSZ7MBJBDKXdkLZqu01k3RdqDhwp7vOdY69o&usqp=CAU"
+        },
+        {
+            "name": "Sundar being in disbelief!",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiKGnAqFvboA2mFCRhS76gvnViHAO5MVQSZ7MBJBDKXdkLZqu01k3RdqDhwp7vOdY69o&usqp=CAU",
+            "id": "0f8a9c0f-82aa-4cb6-bf33-1fc9ac34e339"
+        }
+    ]
+}
